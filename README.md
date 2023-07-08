@@ -17,8 +17,8 @@
 ## Додаємо контакт і виводимо в консоль створений контакт
   ```node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22```
 
-![screenshot-action-add](https://i.ibb.co/k6vLLzP/03-action-add.png)
-[Link to photo](https://ibb.co/XkMnn6G)
+![screenshot-action-add](https://i.ibb.co/186ZJmk/03-action-add.png)
+[Link to photo](https://ibb.co/0htqVGx)
 
 
 ## Видаляємо контакт і виводимо в консоль видалений контакт або null, якщо контакту з таким id не існує.
