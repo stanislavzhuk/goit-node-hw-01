@@ -23,5 +23,6 @@
 
 ## Видаляємо контакт і виводимо в консоль видалений контакт або null, якщо контакту з таким id не існує.
  ```node index.js --action remove --id qdggE76Jtbfd9eWJHrssH```
+ 
 ![screenshot-action-remove](https://i.ibb.co/cY3gTLq/04-action-remove.png)
 [Link to photo](https://ibb.co/vXqwzY9)
