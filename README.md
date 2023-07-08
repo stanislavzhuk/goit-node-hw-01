@@ -1,6 +1,5 @@
-# goit-node-hw-01-CLI-application
+# Скріншоти виконання команд CLI application
 
-# Скриншоти виконання команд cli застосунку
 ## Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
   ```node index.js --action list```
 
